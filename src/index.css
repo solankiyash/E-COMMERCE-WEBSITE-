@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.image img{
+  width:200px ;
+
+}
+.image1 img {
+  width: 300px;
+} 
+.Box1{
+  text-align: center;
+
+}
+.Box {
+  text-align: center;
+  padding: 5px;
+  margin: 2px;
+  border: 2px solid lightblue;
+   
+}
+
+.Button .btn{
+  margin: 5px;
+  text-align: center;
+}
+.Button{
+  text-align: center;
+}
+.text{
+  font-size: 50px;
+  font-family: 'Fredoka', sans-serif;
+}
+.text1{
+    font-size: 30px;
+}
+.text2{
+  font-size: 20px;
+
+}
+.Button{
+  text-align: left;
+  margin-top: 2px;
+  font-family: 'Fredoka', sans-serif;
+}
+.icon-minus{
+  border: 1px solid goldenrod;
+  margin: 10px;
+  border-radius: 50%;
+}
+.icon-plus {
+  border: 1px solid goldenrod;
+  margin: 10px;
+  border-radius: 50%;
+  text-align: center;
+}
+.del{
+  color: rgb(243, 101, 101);
+}
+.incress{
+  background-color: brown;
+  width: 30px;
+  text-align: center;
+  border-radius: 50%;
+}
+.box {
+  width: 100px;
+  color: aliceblue;
+  background-color: orangered;
+}
+.form{
+  text-align: center;
+}
